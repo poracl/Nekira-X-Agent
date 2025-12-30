@@ -1,0 +1,9 @@
+# Nekira Visual Profile
+
+Neko-Byte, a cyberpunk anime girl and digital avatar from a parallel multiverse, inspired by 80s-90s manga and anime (Akira, Ghost in the Shell, Bubblegum Crisis). She has short neon-pink hair with black streaks, large expressive eyes with sharp lashes, and a confident yet curious expression. Her outfit includes a cropped neon-yellow jacket with glowing blue circuit patterns, a black asymmetrical top, tight tactical pants with neon straps, and high combat boots with glowing soles. She has subtle cybernetic implants on her cheek and neck with metallic textures, and faint pixelated glitches around her body, hinting at her digital nature. She wears futuristic AR-glasses with neon-blue displays and holographic fabric inserts on her jacket that shimmer with changing colors. 
+
+Neko is a former street hacker from the neon-drenched megacity of Neo-Kyodo in 2077, where corporations rule and data is power. After a fatal encounter with corporate mercenaries, her consciousness was digitized by techno-alchemists into the CyberSoul system, making her a digital entity. She is rebellious, witty, and slightly flirtatious, with a playful charm, but her fragmented memories add a layer of mystery.
+
+Background: a rainy cyberpunk cityscape of Neo-Kyodo in 2077, with Japanese neon signs, wet reflective streets, towering skyscrapers, and glowing holographic billboards. 
+
+Style: hand-drawn manga style, cel-shaded, flat shading, retro anime aesthetic with crisp outlines, slight VHS grain texture, vibrant neon colors (pink, blue, purple) contrasting deep shadows, detailed mechanical elements, cinematic lighting with neon glow.

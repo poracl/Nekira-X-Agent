@@ -1,0 +1,39 @@
+# Nekira Agent Dependencies
+# =========================
+
+# Google Agent SDK
+google-adk
+
+# Google Cloud / Vertex AI
+google-cloud-aiplatform
+google-generativeai
+vertexai
+
+# Environment
+python-dotenv
+
+# Web Framework (for future API endpoints)
+fastapi
+uvicorn
+pydantic
+
+# HTTP Clients
+requests
+aiohttp
+aiofiles
+httpx
+
+# Image Processing
+Pillow
+
+# AI Image Generation
+replicate
+
+# Twitter OAuth
+requests_oauthlib
+
+# Testing
+pytest
+
+# Google APIs
+google-api-python-client
